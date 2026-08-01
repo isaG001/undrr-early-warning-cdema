@@ -1,0 +1,90 @@
+country,iso3,hazard_category,n_hazard_types_covered
+Anguilla,AIA,Biological,2
+Anguilla,AIA,Chemical,1
+Anguilla,AIA,Environmental,3
+Anguilla,AIA,Geological,1
+Antigua & Barbuda,ATG,Biological,3
+Antigua & Barbuda,ATG,Chemical,2
+Antigua & Barbuda,ATG,Environmental,4
+Antigua & Barbuda,ATG,Geological,2
+Antigua & Barbuda,ATG,Hydrometeorological,5
+Barbados,BRB,Biological,3
+Barbados,BRB,Chemical,2
+Barbados,BRB,Environmental,3
+Barbados,BRB,Geological,2
+Barbados,BRB,Hydrometeorological,6
+Belize,BLZ,Biological,3
+Belize,BLZ,Chemical,2
+Belize,BLZ,Environmental,5
+Belize,BLZ,Geological,1
+Belize,BLZ,Hydrometeorological,6
+Dominica,DMA,Biological,4
+Dominica,DMA,Chemical,1
+Dominica,DMA,Environmental,5
+Dominica,DMA,Geological,4
+Dominica,DMA,Hydrometeorological,6
+Grenada,GRD,Biological,3
+Grenada,GRD,Chemical,1
+Grenada,GRD,Environmental,4
+Grenada,GRD,Geological,4
+Grenada,GRD,Hydrometeorological,6
+Guyana,GUY,Biological,4
+Guyana,GUY,Chemical,2
+Guyana,GUY,Environmental,5
+Guyana,GUY,Geological,2
+Guyana,GUY,Hydrometeorological,6
+Haiti,HTI,Biological,3
+Haiti,HTI,Environmental,4
+Haiti,HTI,Geological,2
+Haiti,HTI,Hydrometeorological,4
+Jamaica,JAM,Biological,3
+Jamaica,JAM,Chemical,1
+Jamaica,JAM,Environmental,4
+Jamaica,JAM,Geological,3
+Jamaica,JAM,Hydrometeorological,6
+Montserrat,MSR,Biological,3
+Montserrat,MSR,Chemical,1
+Montserrat,MSR,Environmental,4
+Montserrat,MSR,Geological,2
+Saint Lucia,LCA,Biological,4
+Saint Lucia,LCA,Chemical,2
+Saint Lucia,LCA,Environmental,2
+Saint Lucia,LCA,Geological,2
+Saint Lucia,LCA,Hydrometeorological,5
+St. Kitts & Nevis,KNA,Biological,3
+St. Kitts & Nevis,KNA,Chemical,2
+St. Kitts & Nevis,KNA,Environmental,4
+St. Kitts & Nevis,KNA,Geological,2
+St. Vincent & the Grenadines,VCT,Biological,3
+St. Vincent & the Grenadines,VCT,Chemical,2
+St. Vincent & the Grenadines,VCT,Environmental,2
+St. Vincent & the Grenadines,VCT,Geological,3
+St. Vincent & the Grenadines,VCT,Hydrometeorological,6
+Suriname,SUR,Biological,3
+Suriname,SUR,Chemical,2
+Suriname,SUR,Environmental,5
+Suriname,SUR,Geological,1
+Suriname,SUR,Hydrometeorological,6
+The Bahamas,BHS,Biological,4
+The Bahamas,BHS,Chemical,1
+The Bahamas,BHS,Environmental,3
+The Bahamas,BHS,Geological,1
+The Bahamas,BHS,Hydrometeorological,5
+The British Virgin Islands,VGB,Biological,3
+The British Virgin Islands,VGB,Chemical,1
+The British Virgin Islands,VGB,Environmental,1
+The British Virgin Islands,VGB,Geological,1
+The Cayman Islands,CYM,Biological,3
+The Cayman Islands,CYM,Chemical,1
+The Cayman Islands,CYM,Environmental,3
+The Cayman Islands,CYM,Geological,1
+The Cayman Islands,CYM,Hydrometeorological,5
+Trinidad & Tobago,TTO,Biological,4
+Trinidad & Tobago,TTO,Chemical,2
+Trinidad & Tobago,TTO,Environmental,5
+Trinidad & Tobago,TTO,Geological,2
+Trinidad & Tobago,TTO,Hydrometeorological,6
+Turks & Caicos,TCA,Biological,3
+Turks & Caicos,TCA,Chemical,1
+Turks & Caicos,TCA,Environmental,3
+Turks & Caicos,TCA,Geological,2

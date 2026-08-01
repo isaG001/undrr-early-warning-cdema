@@ -1,0 +1,344 @@
+hazard_category,hazard_type,country,components,responsible_agency,iso3
+Geological,Earthquake,Regional,"C1,C2,C4",UWI SRC,
+Geological,Tsunami,Regional,"C1,C3,C4",UNESCO-IOC led ICG/ CARIBE EWS,
+Geological,Volcanic Eruption,Regional,"C1,C2,C3,C4",UWI SRC,
+Geological,Landslide,Regional,C1,CDEMA,
+Geological,Tsunami,Anguilla,C3,Department of Disaster Management,AIA
+Geological,Earthquake,Antigua & Barbuda,C2,National Office of Disaster Services,ATG
+Geological,Tsunami,Antigua & Barbuda,C3,National Office of Disaster Services,ATG
+Geological,Tsunami,The Bahamas,C3,National Emergency Management Agency,BHS
+Geological,Earthquake,Barbados,C2,Government Telecommunications Unit/ Department of Emergency Management,BRB
+Geological,Tsunami,Barbados,C3,Department of Emergency Management,BRB
+Geological,Tsunami,Belize,C3,National Emergency Management Organisation,BLZ
+Geological,Tsunami,The British Virgin Islands,C3,Department of Disaster Management,VGB
+Geological,Tsunami,The Cayman Islands,C3,Hazard Management Cayman Islands,CYM
+Geological,Earthquake,Dominica,C1,Physical Planning Division,DMA
+Geological,Tsunami,Dominica,C1,Physical Planning Division,DMA
+Geological,Tsunami,Dominica,C3,Office of Disaster Management,DMA
+Geological,Volcanic Eruption,Dominica,C1,Physical Planning Division,DMA
+Geological,Volcanic Eruption,Dominica,C3,Office of Disaster Management,DMA
+Geological,Landslide,Dominica,C1,Physical Planning Division,DMA
+Geological,Earthquake,Grenada,C2,National Disaster Management Agency,GRD
+Geological,Tsunami,Grenada,C3,National Disaster Management Agency,GRD
+Geological,Volcanic Eruption,Grenada,C1,UWI SRC,GRD
+Geological,Volcanic Eruption,Grenada,C3,National Disaster Management Agency,GRD
+Geological,Landslide,Grenada,C1,"CRIS, CDEMA",GRD
+Geological,Tsunami,Guyana,C3,Civil Defence Commission,GUY
+Geological,Landslide,Guyana,C1,Civil Defence Commission,GUY
+Geological,Earthquake,Haiti,C2,"Seismology Technical Unit, Office of Mines & Energy in the Ministry of Public Works, Transportation, Communications & Energy",HTI
+Geological,Tsunami,Haiti,C3,Department of Civil Protection,HTI
+Geological,Earthquake,Jamaica,"C1,C2,C3","Earthquake Unit, UWI Mona",JAM
+Geological,Tsunami,Jamaica,C3,Office of Disaster Preparedness & Emergency Management,JAM
+Geological,Landslide,Jamaica,C1,UWI Mona,JAM
+Geological,Tsunami,Montserrat,C3,Disaster Management Coordination Agency,MSR
+Geological,Volcanic Eruption,Montserrat,C1,UWI SRC,MSR
+Geological,Volcanic Eruption,Montserrat,C3,Disaster Management Coordination Agency,MSR
+Geological,Tsunami,St. Kitts & Nevis,C3,National Emergency Management Agency,KNA
+Geological,Volcanic Eruption,St. Kitts & Nevis,C1,UWI SRC,KNA
+Geological,Volcanic Eruption,St. Kitts & Nevis,C3,National Emergency Management Agency,KNA
+Geological,Tsunami,Saint Lucia,C3,National Emergency Management Organisation,LCA
+Geological,Landslide,Saint Lucia,C1,"CRIS, CDEMA",LCA
+Geological,Tsunami,St. Vincent & the Grenadines,C3,National Emergency Management Organisation,VCT
+Geological,Volcanic Eruption,St. Vincent & the Grenadines,"C1,C3",National Emergency Management Organisation,VCT
+Geological,Landslide,St. Vincent & the Grenadines,C1,"CRIS, CDEMA",VCT
+Geological,Tsunami,Suriname,C3,National Coordination Centre for Disaster Relief,SUR
+Geological,Tsunami,Trinidad & Tobago,C3,Office of Disaster Preparedness & Management/ Tobago Emergency Management Agency,TTO
+Geological,Landslide,Trinidad & Tobago,C1,Office of Disaster Preparedness & Management,TTO
+Geological,Earthquake,Turks & Caicos,C2,Department of Disaster Management & Emergencies,TCA
+Geological,Tsunami,Turks & Caicos,C3,Department of Disaster Management & Emergencies,TCA
+Hydrometeorological,Tropical Cyclone/ Tornado,Regional,,CMO,
+Hydrometeorological,Tropical Cyclone/ Tornado,Regional,"C1,C2",CIMH,
+Hydrometeorological,Flood,Regional,,CMO,
+Hydrometeorological,Flood,Regional,"C1,C2",CIMH,
+Hydrometeorological,Storm Surge,Regional,,CMO,
+Hydrometeorological,Storm Surge,Regional,"C1,C2",CIMH,
+Hydrometeorological,Drought,Regional,"C1,C2",CIMH,
+Hydrometeorological,Drought,Regional,"C2,C3",CARDI,
+Hydrometeorological,Tropical Cyclone/ Tornado,Antigua & Barbuda,"C2,C3",Antigua Meteorological Service,ATG
+Hydrometeorological,Flood,Antigua & Barbuda,"C2,C3",Antigua Meteorological Service,ATG
+Hydrometeorological,Storm Surge,Antigua & Barbuda,"C2,C3",Antigua Meteorological Service,ATG
+Hydrometeorological,Drought,Antigua & Barbuda,"C2,C3",Antigua & Barbuda Meteorological Service,ATG
+Hydrometeorological,Heat & Cold Wave,Antigua & Barbuda,"C2,C3",Antigua Meteorological Service,ATG
+Hydrometeorological,Tropical Cyclone/ Tornado,The Bahamas,"C2,C3",The Bahamas Department of Meteorology,BHS
+Hydrometeorological,Flood,The Bahamas,"C2,C3",The Bahamas Department of Meteorology,BHS
+Hydrometeorological,Storm Surge,The Bahamas,"C2,C3",The Bahamas Department of Meteorology,BHS
+Hydrometeorological,Drought,The Bahamas,"C2,C3",The Bahamas Department of Meteorology,BHS
+Hydrometeorological,Heat & Cold Wave,The Bahamas,"C2,C3",The Bahamas Department of Meteorology,BHS
+Hydrometeorological,Tropical Cyclone/ Tornado,Barbados,"C2,C3",Barbados Meteorological Service,BRB
+Hydrometeorological,Flood,Barbados,"C2,C3",Barbados Meteorological Service,BRB
+Hydrometeorological,Storm Surge,Barbados,"C2,C3",Barbados Meteorological Service,BRB
+Hydrometeorological,Drought,Barbados,C3,Barbados Meteorological Service,BRB
+Hydrometeorological,Cloudburst,Barbados,"C2,C3",Barbados Meteorological Service,BRB
+Hydrometeorological,Heat & Cold Wave,Barbados,"C2,C3",Barbados Meteorological Service,BRB
+Hydrometeorological,Tropical Cyclone/ Tornado,Belize,"C2,C3",National Meteorological Service of Belize,BLZ
+Hydrometeorological,Flood,Belize,"C1,C2,C3","National Meteorological Service of Belize/ CRIS, CDEMA",BLZ
+Hydrometeorological,Storm Surge,Belize,"C1,C2,C3","National Meteorological Service of Belize/ CRIS, CDEMA",BLZ
+Hydrometeorological,Drought,Belize,"C2,C3",National Meteorological Service of Belize,BLZ
+Hydrometeorological,Cloudburst,Belize,"C2,C3",National Meteorological Service of Belize,BLZ
+Hydrometeorological,Heat & Cold Wave,Belize,"C2,C3",National Meteorological Service of Belize,BLZ
+Hydrometeorological,Tropical Cyclone/ Tornado,The Cayman Islands,"C2,C3",National Weather Service,CYM
+Hydrometeorological,Flood,The Cayman Islands,"C2,C3",National Weather Service,CYM
+Hydrometeorological,Storm Surge,The Cayman Islands,"C2,C3",National Weather Service,CYM
+Hydrometeorological,Drought,The Cayman Islands,"C2,C3",National Weather Service,CYM
+Hydrometeorological,Heat & Cold Wave,The Cayman Islands,"C2,C3",National Weather Service,CYM
+Hydrometeorological,Tropical Cyclone/ Tornado,Dominica,"C2,C3",Dominica Meteorological Service,DMA
+Hydrometeorological,Flood,Dominica,"C1,C2,C3","Dominica Meteorological Service/ CRIS, CDEMA",DMA
+Hydrometeorological,Storm Surge,Dominica,"C1,C2,C3","Dominica Meteorological Service/ CRIS, CDEMA",DMA
+Hydrometeorological,Drought,Dominica,"C2,C3",Dominica Meteorological Service,DMA
+Hydrometeorological,Landslide,Dominica,C1,Physical Planning Division,DMA
+Hydrometeorological,Heat & Cold Wave,Dominica,"C2,C3",Dominica Meteorological Service,DMA
+Hydrometeorological,Tropical Cyclone/ Tornado,Grenada,"C2,C3",Grenada Meteorological Service,GRD
+Hydrometeorological,Flood,Grenada,"C2,C3",Grenada Meteorological Service,GRD
+Hydrometeorological,Storm Surge,Grenada,"C2,C3",Grenada Meteorological Service,GRD
+Hydrometeorological,Drought,Grenada,"C2,C3",Grenada Meteorological Service,GRD
+Hydrometeorological,Landslide,Grenada,C1,"CRIS, CDEMA",GRD
+Hydrometeorological,Heat & Cold Wave,Grenada,"C2,C3",Grenada Meteorological Service,GRD
+Hydrometeorological,Tropical Cyclone/ Tornado,Guyana,"C2,C3",Hydrometeorological Service,GUY
+Hydrometeorological,Flood,Guyana,"C2,C3",Hydrometeorological Service,GUY
+Hydrometeorological,Storm Surge,Guyana,"C2,C3",Hydrometeorological Service,GUY
+Hydrometeorological,Drought,Guyana,"C2,C3",Hydrometeorological Service,GUY
+Hydrometeorological,Cloudburst,Guyana,"C2,C3",Hydrometeorological Service,GUY
+Hydrometeorological,Heat & Cold Wave,Guyana,"C2,C3",Hydrometeorological Service,GUY
+Hydrometeorological,Tropical Cyclone/ Tornado,Haiti,C3,National Meteorological & Hydrological Service,HTI
+Hydrometeorological,Flood,Haiti,C3,National Meteorological & Hydrological Service,HTI
+Hydrometeorological,Storm Surge,Haiti,C3,National Meteorological & Hydrological Service,HTI
+Hydrometeorological,Drought,Haiti,C3,National Meteorological & Hydrological Service,HTI
+Hydrometeorological,Tropical Cyclone/ Tornado,Jamaica,"C2,C3",Meteorological Service of Jamaica,JAM
+Hydrometeorological,Flood,Jamaica,"C2,C3",Meteorological Service of Jamaica,JAM
+Hydrometeorological,Storm Surge,Jamaica,"C2,C3",Meteorological Service of Jamaica,JAM
+Hydrometeorological,Drought,Jamaica,C3,Meteorological Service of Jamaica,JAM
+Hydrometeorological,Landslide,Jamaica,C1,"UWI, Mona",JAM
+Hydrometeorological,Heat & Cold Wave,Jamaica,"C2,C3",Meteorological Service of Jamaica,JAM
+Hydrometeorological,Tropical Cyclone/ Tornado,Saint Lucia,"C2,C3",Saint Lucia Meteorological Services,LCA
+Hydrometeorological,Flood,Saint Lucia,C1,"CRIS, CDEMA",LCA
+Hydrometeorological,Flood,Saint Lucia,"C2,C3",Saint Lucia Meteorological Services,LCA
+Hydrometeorological,Storm Surge,Saint Lucia,"C2,C3",Saint Lucia Meteorological Services,LCA
+Hydrometeorological,Landslide,Saint Lucia,C1,"CRIS, CDEMA",LCA
+Hydrometeorological,Heat & Cold Wave,Saint Lucia,"C2,C3",Saint Lucia Meteorological Services,LCA
+Hydrometeorological,Tropical Cyclone/ Tornado,St. Vincent & the Grenadines,"C2,C3",Meteorological Service Saint Vincent & the Grenadines,VCT
+Hydrometeorological,Flood,St. Vincent & the Grenadines,"C2,C3",Meteorological Service Saint Vincent & the Grenadines,VCT
+Hydrometeorological,Storm Surge,St. Vincent & the Grenadines,"C2,C3",Meteorological Service Saint Vincent & the Grenadines,VCT
+Hydrometeorological,Drought,St. Vincent & the Grenadines,C3,Meteorological Service Saint Vincent & the Grenadines,VCT
+Hydrometeorological,Landslide,St. Vincent & the Grenadines,C1,"CRIS, CDEMA",VCT
+Hydrometeorological,Heat & Cold Wave,St. Vincent & the Grenadines,"C2,C3",Meteorological Service Saint Vincent & the Grenadines,VCT
+Hydrometeorological,Tropical Cyclone/ Tornado,Suriname,"C2,C3",Suriname Meteorological Service,SUR
+Hydrometeorological,Flood,Suriname,"C2,C3",Suriname Meteorological Service,SUR
+Hydrometeorological,Storm Surge,Suriname,"C2,C3",Suriname Meteorological Service,SUR
+Hydrometeorological,Drought,Suriname,C3,Suriname Meteorological Service,SUR
+Hydrometeorological,Cloudburst,Suriname,"C2,C3",Suriname Meteorological Service,SUR
+Hydrometeorological,Heat & Cold Wave,Suriname,"C2,C3",Suriname Meteorological Service,SUR
+Hydrometeorological,Tropical Cyclone/ Tornado,Trinidad & Tobago,"C2,C3",Trinidad & Tobago Meteorological Services,TTO
+Hydrometeorological,Flood,Trinidad & Tobago,C1,ODPM,TTO
+Hydrometeorological,Flood,Trinidad & Tobago,"C2,C3",Trinidad & Tobago Meteorological Services,TTO
+Hydrometeorological,Storm Surge,Trinidad & Tobago,"C2,C3",Trinidad & Tobago Meteorological Services,TTO
+Hydrometeorological,Drought,Trinidad & Tobago,C3,Trinidad & Tobago Meteorological Services,TTO
+Hydrometeorological,Landslide,Trinidad & Tobago,C1,ODPM,TTO
+Hydrometeorological,Heat & Cold Wave,Trinidad & Tobago,"C2,C3",Trinidad & Tobago Meteorological Services,TTO
+Environmental,Deforestation,Regional,C2,CCCCC,
+Environmental,Land & Soil Degradation,Regional,"C1,C2",CCCCC/CIMH,
+Environmental,Biodiversity Loss,Regional,"C1,C2",CCCCC/CIMH,
+Environmental,Environmental Pollution,Regional,C2,"CARPHA, CERMES, CIMH",
+Environmental,Environmental Pollution,Regional,C3,CERMES,
+Environmental,Deforestation,Anguilla,C2,Department of Environment,AIA
+Environmental,Land & Soil Degradation,Anguilla,C2,Department of Environment,AIA
+Environmental,Biodiversity Loss,Anguilla,C2,Department of Environment,AIA
+Environmental,Deforestation,Antigua & Barbuda,C2,Department of Environment,ATG
+Environmental,Deforestation,Antigua & Barbuda,C2,Forestry Division,ATG
+Environmental,Land & Soil Degradation,Antigua & Barbuda,C2,Department of Environment,ATG
+Environmental,Land & Soil Degradation,Antigua & Barbuda,C2,Development Control Authority,ATG
+Environmental,Biodiversity Loss,Antigua & Barbuda,C2,Department of Environment,ATG
+Environmental,Biodiversity Loss,Antigua & Barbuda,C2,Development Control Authority,ATG
+Environmental,Environmental Pollution,Antigua & Barbuda,C2,Department of Environment,ATG
+Environmental,Deforestation,The Bahamas,C2,Department of Forestry,BHS
+Environmental,Biodiversity Loss,The Bahamas,C2,Department of Forestry,BHS
+Environmental,Environmental Pollution,The Bahamas,C2,Department of Environmental Health Services,BHS
+Environmental,Land & Soil Degradation,Barbados,C2,Ministry of Environment & National Beautification,BRB
+Environmental,Biodiversity Loss,Barbados,C2,Ministry of Environment & National Beautification,BRB
+Environmental,Biodiversity Loss,Barbados,C2,Coastal Zone Management Unit,BRB
+Environmental,Environmental Pollution,Barbados,C2,Environmental Protection Department,BRB
+Environmental,Environmental Pollution,Barbados,C2,Sanitation Services Authority,BRB
+Environmental,Environmental Pollution,Barbados,C3,Barbados Government Information Service,BRB
+Environmental,Deforestation,Belize,C2,Belize Forest Department/ Non-governmental organisations,BLZ
+Environmental,Land & Soil Degradation,Belize,C2,Belize Forest Department,BLZ
+Environmental,Land & Soil Degradation,Belize,C2,Department of Environment,BLZ
+Environmental,Biodiversity Loss,Belize,C2,Belize Forest Department,BLZ
+Environmental,Environmental Pollution,Belize,C2,Department of Environment,BLZ
+Environmental,Wildfires,Belize,C2,Belize Forest Department,BLZ
+Environmental,Environmental Pollution,The British Virgin Islands,C2,Environmental Health Division,VGB
+Environmental,Land & Soil Degradation,The Cayman Islands,C2,Department of Environment,CYM
+Environmental,Biodiversity Loss,The Cayman Islands,C2,Department of Environment,CYM
+Environmental,Environmental Pollution,The Cayman Islands,C2,Department of Environmental Health,CYM
+Environmental,Environmental Pollution,The Cayman Islands,C2,Department of Environment,CYM
+Environmental,Deforestation,Dominica,C2,"Forestry, Wildlife and Parks Division",DMA
+Environmental,Land & Soil Degradation,Dominica,C2,Environmental Coordinating Unit,DMA
+Environmental,Biodiversity Loss,Dominica,C2,Environmental Coordinating Unit,DMA
+Environmental,Biodiversity Loss,Dominica,C2,Fisheries Division,DMA
+Environmental,Environmental Pollution,Dominica,"C2,C3",Environmental Coordinating Unit,DMA
+Environmental,Wildfires,Dominica,C2,"Forestry, Wildlife and Parks Division",DMA
+Environmental,Deforestation,Grenada,C2,Forestry & National Park Department,GRD
+Environmental,Land & Soil Degradation,Grenada,C2,Forestry & National Park Department,GRD
+Environmental,Biodiversity Loss,Grenada,C2,Forestry & National Park Department,GRD
+Environmental,Biodiversity Loss,Grenada,C2,Fisheries Division,GRD
+Environmental,Environmental Pollution,Grenada,C2,Environmental Health Division,GRD
+Environmental,Deforestation,Guyana,"C1,C2",Guyana Forestry Commission,GUY
+Environmental,Land & Soil Degradation,Guyana,C2,Guyana Lands & Surveys Commission,GUY
+Environmental,Biodiversity Loss,Guyana,C2,Protection Areas Commission,GUY
+Environmental,Biodiversity Loss,Guyana,C2,Guyana Wildlife Management Authority,GUY
+Environmental,Environmental Pollution,Guyana,"C2,C3",Environmental Protection Agency,GUY
+Environmental,Wildfires,Guyana,C2,Guyana Forestry Commission,GUY
+Environmental,Deforestation,Haiti,C2,Ministry of the Environment,HTI
+Environmental,Land & Soil Degradation,Haiti,C2,Ministry of the Environment,HTI
+Environmental,Biodiversity Loss,Haiti,C2,Ministry of the Environment,HTI
+Environmental,Environmental Pollution,Haiti,C2,Ministry of the Environment,HTI
+Environmental,Deforestation,Jamaica,C2,Forestry Department,JAM
+Environmental,Land & Soil Degradation,Jamaica,C2,National Environment & Planning Agency,JAM
+Environmental,Biodiversity Loss,Jamaica,C2,National Environment & Planning Agency,JAM
+Environmental,Environmental Pollution,Jamaica,C2,National Environment & Planning Agency,JAM
+Environmental,Environmental Pollution,Jamaica,C2,National Solid Waste Management Authority,JAM
+Environmental,Deforestation,Montserrat,C2,Department of Environment,MSR
+Environmental,Land & Soil Degradation,Montserrat,C2,Department of Environment,MSR
+Environmental,Biodiversity Loss,Montserrat,C2,Department of Environment,MSR
+Environmental,Environmental Pollution,Montserrat,C2,Department of Environment,MSR
+Environmental,Deforestation,St. Kitts & Nevis,C2,Department of Environment,KNA
+Environmental,Land & Soil Degradation,St. Kitts & Nevis,C2,Department of Environment,KNA
+Environmental,Biodiversity Loss,St. Kitts & Nevis,C2,Department of Environment,KNA
+Environmental,Environmental Pollution,St. Kitts & Nevis,C2,Department of Environment,KNA
+Environmental,Biodiversity Loss,Saint Lucia,C2,Biodiversity Unit,LCA
+Environmental,Biodiversity Loss,Saint Lucia,C2,Fisheries Division,LCA
+Environmental,Environmental Pollution,Saint Lucia,C2,Department of Sustainable Development & Environment,LCA
+Environmental,Biodiversity Loss,St. Vincent & the Grenadines,C2,Sustainable Development Unit,VCT
+Environmental,Biodiversity Loss,St. Vincent & the Grenadines,C2,Fisheries Division/ Forestry Department,VCT
+Environmental,Environmental Pollution,St. Vincent & the Grenadines,C2,Environmental Engineering Unit,VCT
+Environmental,Environmental Pollution,St. Vincent & the Grenadines,C2,Fisheries Division,VCT
+Environmental,Deforestation,Suriname,C2,The Foundation for Forest Management and Forest Supervision (SBB),SUR
+Environmental,Land & Soil Degradation,Suriname,C2,National Institute for Environment & Development,SUR
+Environmental,Biodiversity Loss,Suriname,C2,"Ministry of Labour, Technological Development and Environment",SUR
+Environmental,Biodiversity Loss,Suriname,C2,National Institute for Environment & Development,SUR
+Environmental,Environmental Pollution,Suriname,C2,National Institute for Environment & Development,SUR
+Environmental,Wildfires,Suriname,C2,The Foundation for Forest Management and Forest Supervision (SBB),SUR
+Environmental,Deforestation,Trinidad & Tobago,C2,Environmental Management Authority,TTO
+Environmental,Deforestation,Trinidad & Tobago,C2,"Forestry Division, Ministry of Agriculture, Land and Fisheries",TTO
+Environmental,Land & Soil Degradation,Trinidad & Tobago,C2,Environmental Management Authority,TTO
+Environmental,Land & Soil Degradation,Trinidad & Tobago,C2,Ministry of Planning & Development,TTO
+Environmental,Biodiversity Loss,Trinidad & Tobago,C2,Environmental Management Authority,TTO
+Environmental,Environmental Pollution,Trinidad & Tobago,"C2,C3",Environmental Management Authority,TTO
+Environmental,Wildfires,Trinidad & Tobago,C2,"Forestry Division, Ministry of Agriculture, Land and Fisheries",TTO
+Environmental,Land & Soil Degradation,Turks & Caicos,C2,Department of Environment and Coastal Resources,TCA
+Environmental,Biodiversity Loss,Turks & Caicos,C2,Department of Environment and Coastal Resources,TCA
+Environmental,Environmental Pollution,Turks & Caicos,C2,Department of Environment and Coastal Resources,TCA
+Biological,Human Pandemics & Epidemics,Regional,"C1,C2,C3",CARPHA,
+Biological,Animal Pandemics & Epidemics,Regional,"C2,C3",CARDI,
+Biological,Animal Pandemics & Epidemics,Regional,"C2,C3",CaribVET,
+Biological,Pest Infestations,Regional,"C2,C3",CARDI,
+Biological,Human Pandemics & Epidemics,Anguilla,"C2,C3",Ministry of Health,AIA
+Biological,Pest Infestations,Anguilla,C2,Office of Plant Quarantine,AIA
+Biological,Human Pandemics & Epidemics,Antigua & Barbuda,"C2,C3",Ministry of Health,ATG
+Biological,Animal Pandemics & Epidemics,Antigua & Barbuda,C2,"Veterinary & Livestock Division, Ministry of Agriculture, Lands, Housing & the Environment",ATG
+Biological,Pest Infestations,Antigua & Barbuda,C2,"Plant Protection Unit, Ministry of Agriculture, Lands, Housing & the Environment/ Department of Environment",ATG
+Biological,Human Pandemics & Epidemics,The Bahamas,"C2,C3",Ministry of Health,BHS
+Biological,Animal Pandemics & Epidemics,The Bahamas,C2,"Veterinary Service Division, the Bahamas Agricultural Health & Food Safety Authority",BHS
+Biological,Pest Infestations,The Bahamas,C2,"Plant Protection Unit, the Bahamas Agricultural Health & Food Safety Authority",BHS
+Biological,Invasive species,The Bahamas,C1,Department of Forestry,BHS
+Biological,Invasive species,The Bahamas,C2,Department of Forestry & NGOs,BHS
+Biological,Human Pandemics & Epidemics,Barbados,"C2,C3",Ministry of Health,BRB
+Biological,Human Pandemics & Epidemics,Barbados,C3,Barbados Government Information Service,BRB
+Biological,Animal Pandemics & Epidemics,Barbados,C2,"Barbados Veterinary Service, Ministry of Agriculture & Food Security/ Barbados Government Information Service",BRB
+Biological,Pest Infestations,Barbados,C2,"Plant Protection Department, Ministry of Agriculture & Food Security",BRB
+Biological,Human Pandemics & Epidemics,Belize,"C2,C3",Ministry of Health,BLZ
+Biological,Human Pandemics & Epidemics,Belize,C3,Government of Belize Press Office,BLZ
+Biological,Animal Pandemics & Epidemics,Belize,C2,Belize Agricultural Health Authority,BLZ
+Biological,Pest Infestations,Belize,C2,Belize Agricultural Health Authority,BLZ
+Biological,Human Pandemics & Epidemics,The British Virgin Islands,"C2,C3",Ministry of Health,VGB
+Biological,Animal Pandemics & Epidemics,The British Virgin Islands,C2,Department of Agriculture & Fisheries,VGB
+Biological,Pest Infestations,The British Virgin Islands,C2,Department of Agriculture & Fisheries,VGB
+Biological,Human Pandemics & Epidemics,The Cayman Islands,"C2,C3",Ministry of Health & Wellness,CYM
+Biological,Animal Pandemics & Epidemics,The Cayman Islands,C2,Department of Agriculture,CYM
+Biological,Pest Infestations,The Cayman Islands,C2,Department of Agriculture,CYM
+Biological,Human Pandemics & Epidemics,Dominica,"C2,C3",Ministry of Health,DMA
+Biological,Animal Pandemics & Epidemics,Dominica,C2,"Livestock Development Unit, Ministry of Blue and Green Economy, Agriculture and National Food Security",DMA
+Biological,Pest Infestations,Dominica,C2,"Plant Protection & Quarantine Unit, Ministry of Blue & Green Economy, Agriculture & National Food Security",DMA
+Biological,Invasive species,Dominica,C2,"Forestry, Wildlife & Parks Division",DMA
+Biological,Human Pandemics & Epidemics,Grenada,"C2,C3",Ministry of Health,GRD
+Biological,Animal Pandemics & Epidemics,Grenada,C2,"Livestock Division, Ministry of Agriculture, Lands & Forestry",GRD
+Biological,Pest Infestations,Grenada,C2,"Pest Management Unit, Ministry of Agriculture, Lands & Forestry",GRD
+Biological,Human Pandemics & Epidemics,Guyana,"C2,C3",Ministry of Health,GUY
+Biological,Animal Pandemics & Epidemics,Guyana,C2,"Guyana Livestock Development Authority, Ministry of Agriculture",GUY
+Biological,Pest Infestations,Guyana,"C2,C3",National Plant Protection Organisation,GUY
+Biological,Invasive species,Guyana,C2,Guyana Forestry Commission,GUY
+Biological,Human Pandemics & Epidemics,Haiti,"C2,C3",Ministry of Public Health & Population,HTI
+Biological,Animal Pandemics & Epidemics,Haiti,C2,"Ministry of Agriculture, Natural Resources & Rural Development",HTI
+Biological,Pest Infestations,Haiti,C2,"Quarantine Unit, Ministry of Agriculture, Natural Resources & Rural Development",HTI
+Biological,Human Pandemics & Epidemics,Jamaica,"C2,C3",Ministry of Health & Wellness,JAM
+Biological,Animal Pandemics & Epidemics,Jamaica,C2,"Veterinary Services Division, Ministry of Agriculture & Fisheries",JAM
+Biological,Pest Infestations,Jamaica,C2,"Plant Quarantine Produce Inspection, Ministry of Agriculture & Fisheries",JAM
+Biological,Human Pandemics & Epidemics,Montserrat,"C2,C3",Ministry of Health & Social Services,MSR
+Biological,Animal Pandemics & Epidemics,Montserrat,C2,"Ministry of Agriculture, Lands, Housing & Environment",MSR
+Biological,Pest Infestations,Montserrat,C2,"Ministry of Agriculture, Lands, Housing & Environment",MSR
+Biological,Human Pandemics & Epidemics,St. Kitts & Nevis,C2,Ministry of Health & Wellness,KNA
+Biological,Human Pandemics & Epidemics,St. Kitts & Nevis,C3,National Emergency Management Agency,KNA
+Biological,Animal Pandemics & Epidemics,St. Kitts & Nevis,C2,"Ministry of Agriculture, Fisheries & Marine Resources",KNA
+Biological,Animal Pandemics & Epidemics,St. Kitts & Nevis,C2,St. Kitts Chief Veterinary Office,KNA
+Biological,Pest Infestations,St. Kitts & Nevis,C2,"Plant Quarantine Unit, Ministry of Agriculture, Fisheries & Marine Resources",KNA
+Biological,Human Pandemics & Epidemics,Saint Lucia,"C2,C3",Ministry of Health & Wellness,LCA
+Biological,Animal Pandemics & Epidemics,Saint Lucia,C2,"Veterinary & Livestock Services, Ministry of Agriculture, Fisheries & Food Security",LCA
+Biological,Pest Infestations,Saint Lucia,C2,"Quarantine Unit, Ministry of Agriculture, Fisheries & Food Security",LCA
+Biological,Invasive species,Saint Lucia,C1,Forestry Deparment,LCA
+Biological,Human Pandemics & Epidemics,St. Vincent & the Grenadines,"C2,C3","Ministry of Health, Wellness & the Environment",VCT
+Biological,Animal Pandemics & Epidemics,St. Vincent & the Grenadines,C2,"Animal Health & Production Division, Ministry of Agriculture, Forestry, Fisheries, Rural Transformation, Industry & Labour",VCT
+Biological,Pest Infestations,St. Vincent & the Grenadines,C2,"Plant Protection & Quarantine Unit, Ministry of Agriculture, Forestry, Fisheries, Rural Transformation, Industry & Labour",VCT
+Biological,Human Pandemics & Epidemics,Suriname,"C2,C3",Ministry of Health,SUR
+Biological,Animal Pandemics & Epidemics,Suriname,C2,"Department of Agriculture, Livestock and Fisheries, Ministry of Agriculture, Animal Husbandries & Fisheries",SUR
+Biological,Pest Infestations,Suriname,C2,"Plant Protection Department, Ministry of Agriculture, Animal Husbandries & Fisheries",SUR
+Biological,Human Pandemics & Epidemics,Trinidad & Tobago,"C2,C3",Ministry of Health,TTO
+Biological,Animal Pandemics & Epidemics,Trinidad & Tobago,C2,"Animal Production & Health Division, Ministry of Agriculture, Lands & Fisheries",TTO
+Biological,Pest Infestations,Trinidad & Tobago,C2,"Plant Quarantine Service, Ministry of Agriculture, Lands & Fisheries",TTO
+Biological,Invasive species,Trinidad & Tobago,C1,Environmental Management Authority,TTO
+Biological,Human Pandemics & Epidemics,Turks & Caicos,"C2,C3",Ministry of Health,TCA
+Biological,Animal Pandemics & Epidemics,Turks & Caicos,C2,"Animal Health Services Division, Department of Agriculture",TCA
+Biological,Pest Infestations,Turks & Caicos,C2,"Plant Health Services Division, Department of Agriculture",TCA
+Chemical,Oil Pollution,Regional,C2,CDEMA,
+Chemical,Persistent Organic Pollutants,Regional,"C1,C2",BCRC Caribbean,
+Chemical,Oil Pollution,Anguilla,"C2,C3",National Disaster Preparedness Office,AIA
+Chemical,Oil Pollution,Antigua & Barbuda,"C2,C3",National Office of Disaster Services,ATG
+Chemical,Persistent Organic Pollutants,Antigua & Barbuda,C1,Basel Convention Regional Centre for Training and Technology Transfer for the Caribbean (BCRC-Caribbean),ATG
+Chemical,Persistent Organic Pollutants,Antigua & Barbuda,C2,Department of Environment,ATG
+Chemical,Oil Pollution,The Bahamas,C2,"Port Department, Ministry of Transport & Aviation",BHS
+Chemical,Oil Pollution,The Bahamas,C3,National Emergency Management Agency,BHS
+Chemical,Oil Pollution,Barbados,C2,Barbados Coast Guard,BRB
+Chemical,Oil Pollution,Barbados,C3,Environmental Protection Department,BRB
+Chemical,Persistent Organic Pollutants,Barbados,C1,Basel Convention Regional Centre for Training and Technology Transfer for the Caribbean (BCRC-Caribbean),BRB
+Chemical,Oil Pollution,Belize,C2,Barbados Port Authority,BLZ
+Chemical,Oil Pollution,Belize,C3,Department of Environment,BLZ
+Chemical,Persistent Organic Pollutants,Belize,C1,Basel Convention Regional Centre for Training and Technology Transfer for the Caribbean (BCRC-Caribbean),BLZ
+Chemical,Oil Pollution,The British Virgin Islands,C2,Conservation & Fisheries Department,VGB
+Chemical,Oil Pollution,The British Virgin Islands,C3,Department of Disaster Management,VGB
+Chemical,Oil Pollution,The Cayman Islands,C2,Emergency Communication (911) Centre),CYM
+Chemical,Oil Pollution,The Cayman Islands,C3,Department of Environment,CYM
+Chemical,Oil Pollution,Dominica,C2,Dominica Air & Sea Port Authority,DMA
+Chemical,Oil Pollution,Dominica,C3,Office of Disaster Management,DMA
+Chemical,Oil Pollution,Grenada,C2,Grenada Coast Guard,GRD
+Chemical,Oil Pollution,Grenada,C3,National Disaster Management Agency,GRD
+Chemical,Oil Pollution,Guyana,"C2,C3",Maritime Administrative Department (MARAD),GUY
+Chemical,Persistent Organic Pollutants,Guyana,C2,Basel Convention Regional Centre for Training and Technology Transfer for the Caribbean (BCRC-Caribbean),GUY
+Chemical,Oil Pollution,Jamaica,C2,Jamaica Defence Force Coast Guard,JAM
+Chemical,Oil Pollution,Jamaica,C3,Office of Disaster Preparedness & Emergency Management,JAM
+Chemical,Oil Pollution,Montserrat,"C2,C3",Disaster Management Coordination Agency,MSR
+Chemical,Oil Pollution,St. Kitts & Nevis,"C2,C3",National Emergency Management Agency,KNA
+Chemical,Persistent Organic Pollutants,St. Kitts & Nevis,C1,Basel Convention Regional Centre for Training and Technology Transfer for the Caribbean (BCRC-Caribbean),KNA
+Chemical,Oil Pollution,Saint Lucia,C2,Saint Lucia Air & Sea Port Authority Guard,LCA
+Chemical,Oil Pollution,Saint Lucia,C3,National Emergency Management Organisation,LCA
+Chemical,Persistent Organic Pollutants,Saint Lucia,C1,Basel Convention Regional Centre for Training and Technology Transfer for the Caribbean (BCRC-Caribbean),LCA
+Chemical,Oil Pollution,St. Vincent & the Grenadines,C2,St. Vincent & the Grenadines Coast Guard,VCT
+Chemical,Oil Pollution,St. Vincent & the Grenadines,C3,National Emergency Management Organisation,VCT
+Chemical,Persistent Organic Pollutants,St. Vincent & the Grenadines,C1,Basel Convention Regional Centre for Training and Technology Transfer for the Caribbean (BCRC-Caribbean),VCT
+Chemical,Oil Pollution,Suriname,C2,Maritime Authority of Suriname,SUR
+Chemical,Oil Pollution,Suriname,C3,National Coordination Centre for Disaster Relief,SUR
+Chemical,Persistent Organic Pollutants,Suriname,C1,Basel Convention Regional Centre for Training and Technology Transfer for the Caribbean (BCRC-Caribbean),SUR
+Chemical,Oil Pollution,Trinidad & Tobago,C2,Ministry of Energy & Energy Affairs,TTO
+Chemical,Oil Pollution,Trinidad & Tobago,C3,Office of Disaster Preparedness & Management,TTO
+Chemical,Persistent Organic Pollutants,Trinidad & Tobago,C1,Basel Convention Regional Centre for Training and Technology Transfer for the Caribbean (BCRC-Caribbean),TTO
+Chemical,Oil Pollution,Turks & Caicos,C2,Office of the Commissioner of Police,TCA
+Chemical,Oil Pollution,Turks & Caicos,C3,Office of Disaster Preparedness,TCA
+Societal,Civil Unrest,Regional,,CARICOM IMPACS,
+Societal,Violence,Regional,,CARICOM IMPACS,
+Societal,Financial Shock,Regional,,CARISEC,

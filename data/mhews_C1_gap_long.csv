@@ -1,0 +1,29 @@
+country,iso3,hazard_category,n_hazard_types_with_C1
+Antigua & Barbuda,ATG,Chemical,1
+Barbados,BRB,Chemical,1
+Belize,BLZ,Chemical,1
+Belize,BLZ,Hydrometeorological,2
+Dominica,DMA,Geological,4
+Dominica,DMA,Hydrometeorological,3
+Grenada,GRD,Geological,2
+Grenada,GRD,Hydrometeorological,1
+Guyana,GUY,Environmental,1
+Guyana,GUY,Geological,1
+Jamaica,JAM,Geological,2
+Jamaica,JAM,Hydrometeorological,1
+Montserrat,MSR,Geological,1
+Saint Lucia,LCA,Biological,1
+Saint Lucia,LCA,Chemical,1
+Saint Lucia,LCA,Geological,1
+Saint Lucia,LCA,Hydrometeorological,2
+St. Kitts & Nevis,KNA,Chemical,1
+St. Kitts & Nevis,KNA,Geological,1
+St. Vincent & the Grenadines,VCT,Chemical,1
+St. Vincent & the Grenadines,VCT,Geological,2
+St. Vincent & the Grenadines,VCT,Hydrometeorological,1
+Suriname,SUR,Chemical,1
+The Bahamas,BHS,Biological,1
+Trinidad & Tobago,TTO,Biological,1
+Trinidad & Tobago,TTO,Chemical,1
+Trinidad & Tobago,TTO,Geological,1
+Trinidad & Tobago,TTO,Hydrometeorological,2

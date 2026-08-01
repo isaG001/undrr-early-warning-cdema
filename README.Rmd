@@ -1,0 +1,71 @@
+---
+title: "A Spatial Analysis of the gaps in UNDRR's Multi-Hazard Early Warning System Assessment in the Caribbean."
+output: html_document
+date: "2026-07-31"
+---
+
+# A Spatial Analysis of the gaps in UNDRR's Multi-Hazard Early Warning System Assessment in the Caribbean.
+
+The Caribbean faces frequent hurricanes, floods, and geological hazards, for this reason the region was one of the first targets of the UN's Early Warnings for All initiative.
+
+This project uses UNDRR's 2023 regional capacity assessment to map where early warning system gaps are concentrated, looking specifically at which components (risk knowledge, monitoring, dissemination, response) are underdeveloped, and where.\
+
+## Data files (/data)
+
+### Source: UNDRR report
+
+The UNDRR's 2023 "Multi-Hazard Early Warning Systems' Capacities in the Caribbean Region" report was used to extract data that was later used in the project.
+
+The report identifies four early warning system components (C1-C4):
+
+-   C1- Disaster risk knowledge based on the systematic collection of data and disaster risk assessments.
+-   C2- Detection, monitoring, analysis & forecasting of the hazards & possible consequences.
+-   C3- Dissemination & communication, by an official source, of authoritative, timely, accurate and actionable warnings and associated information on likelihood and impact.
+-   C4- Preparedness at all levels to respond to warnings. For every hazard type and country, the report records which agency is responsible for each of the four components (C1-C4).
+
+Hazard types are mapped using the Sendai classification and taxonomy. The countries included are the ones that are part of CDEMA.
+
+### Datasets
+
+-   mhews_capacity_matrix_detailed.csv: one row per country × hazard type × responsible agency, with the EWS component(s) (C1-C4) that agency covers. Extracted directly from the appendix tables of UNDRR's 2023 MHEWS report.
+
+-   mhews_coverage_summary_long.csv: for each country and hazard category, how many hazard types have any documented responsible agency.
+
+-   mhews_C1_gap_long.csv: isolates Disaster Risk Knowledge (C1) coverage specifically, same structure as above.
+
+-   country_avg.csv: country-level average C1 coverage ratio, used for the summary map.
+
+-   ne_10m_admin_0_countries.shp: basemap (<https://www.naturalearthdata.com/downloads/>)
+
+## Methods
+
+Tools: R (sf, dplyr, tidyr, stringr, ggplot2); QGIS
+
+### Disaster risk knowledge by country
+
+Across all the hazard types a country tracks, on average how much of its documented capacity includes risk knowledge (C1)?
+
+This is measured through by the n umber of hazard types with a C1 agency, divided by the number of hazard types with any documented agency, averaged across all hazard categories, and shows which countries have the weakest foundation for early warning.
+
+### By hazard category
+
+Of the hazard types in this category that have any documented responsible agency, what share also have a C1 (risk knowledge) agency specifically named?
+
+This is measured by the hnumber of hazard types with a C1 agency, divided by the number of hazard types with any documented agency, within that hazard categoryratio, and shows which hazard cathegory has the weakest (or strongest) risk knowledge coverage in each country.
+
+### By component
+
+Across all the hazard types a country tracks, on average how much of its documented capacity includes the specific component?
+
+This is measured by the number of hazard types with that component's agency, divided by the number of hazard types with any documented agency, averaged across all hazard categoriesratio, and shows which component of the early warning chain is weakest (or strongest) in each country.\
+
+### QGIS
+
+An interactive web map was built in QGIS (using the same ratios calculated in R) to allow exploration of each hazard category and EWS component individually. This was exported via the qgis2web plugin as a standalone Leaflet map with a toggleable layer panel — see /webmap.
+
+## Findings
+
+-   Overall C1 gap: 69% of country-hazard-category combinations show zero documented Disaster Risk Knowledge coverage (mean ratio 0.14, median 0)
+-   By country: UK Overseas Territories (Anguilla, BVI, Cayman, Turks & Caicos) plus Haiti show zero C1 coverage across every category; Saint Lucia, Trinidad & Tobago, Dominica relatively strongest (still only \~0.30)
+-   By hazard category: Geological (0.28) and Chemical (0.22) relatively strongest; Environmental (0.01) and Biological (0.04) nearly absent.
+-   The C1-C4 comparison: C2 (monitoring/forecasting) and C3 (warning/dissemination) are comparatively well-resourced (0.74 and 0.53); C1 (risk knowledge) and C4 (response capability) are both weak (0.13 and 0). The steps in the middle are strong, but both ends (planning ahead, acting after) are neglected.
