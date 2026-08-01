@@ -55,7 +55,11 @@ This is measured by the number of hazard types with that component's agency, div
 
 ### QGIS
 
-An interactive web map was built in QGIS (using the same ratios calculated in R) to allow exploration of each hazard category and EWS component individually. This was exported via the qgis2web plugin as a standalone Leaflet map with a toggleable layer panel — see /webmap.
+An interactive web map was built in QGIS (using the same ratios calculated in R) to allow exploration of each hazard category and EWS component individually. This was exported via the qgis2web plugin as a standalone Leaflet map with a toggleable layer panel. 
+
+The QGIS project is in the QGIS folder, while the webmap resource files are in the docs folder.  
+
+The interactive webmap can be opened through this link: https://isaG001.github.io/undrr-early-warning-cdema/
 
 ## Findings
 
