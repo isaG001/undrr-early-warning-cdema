@@ -61,6 +61,8 @@ The QGIS project is in the QGIS folder, while the webmap resource files are in t
 
 The interactive webmap can be opened through this link: https://isaG001.github.io/undrr-early-warning-cdema/
 
+The same maps were created in R using ggplot2, and they can be found in the outputs folder.  
+
 ## Findings
 
 -   Overall C1 gap: 69% of country-hazard-category combinations show zero documented Disaster Risk Knowledge coverage (mean ratio 0.14, median 0)
