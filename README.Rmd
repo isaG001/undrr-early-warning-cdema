@@ -1,9 +1,3 @@
----
-title: "A Spatial Analysis of the gaps in UNDRR's Multi-Hazard Early Warning System Assessment in the Caribbean."
-output: html_document
-date: "2026-07-31"
----
-
 # A Spatial Analysis of the gaps in UNDRR's Multi-Hazard Early Warning System Assessment in the Caribbean.
 
 The Caribbean faces frequent hurricanes, floods, and geological hazards, for this reason the region was one of the first targets of the UN's Early Warnings for All initiative.
